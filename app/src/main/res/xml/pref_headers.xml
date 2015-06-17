@@ -3,15 +3,15 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$GeneralPreferenceFragment"
-        android:title="@string/pref_header_general" />
+            android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$GeneralPreferenceFragment"
+            android:title="@string/pref_header_general"/>
 
     <header
-        android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$NotificationPreferenceFragment"
-        android:title="@string/pref_header_notifications" />
+            android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$NotificationPreferenceFragment"
+            android:title="@string/pref_header_notifications"/>
 
     <header
-        android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$DataSyncPreferenceFragment"
-        android:title="@string/pref_header_data_sync" />
+            android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$DataSyncPreferenceFragment"
+            android:title="@string/pref_header_data_sync"/>
 
 </preference-headers>
