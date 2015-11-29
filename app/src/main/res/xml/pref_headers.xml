@@ -4,17 +4,17 @@
 
     <header
         android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$GeneralPreferenceFragment"
-        android:title="@string/pref_header_general"
-        android:icon="@drawable/ic_info_black_24dp" />
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/pref_header_general" />
 
     <header
         android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$NotificationPreferenceFragment"
-        android:title="@string/pref_header_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp" />
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/pref_header_notifications" />
 
     <header
         android:fragment="com.example.androidstudiosettingsactivity.SettingsActivity$DataSyncPreferenceFragment"
-        android:title="@string/pref_header_data_sync"
-        android:icon="@drawable/ic_sync_black_24dp" />
+        android:icon="@drawable/ic_sync_black_24dp"
+        android:title="@string/pref_header_data_sync" />
 
 </preference-headers>
